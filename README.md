@@ -18,12 +18,7 @@ A minimalist to-do list app built using React.js. Users can add, delete, and man
 - JavaScript
 
 ## 🌐 Live Demo:
-here - 
-
-## 📸 Demo
-<video width="100%" controls>
-  <source src="./todo app.mp4" type="video/mp4">
-</video>
+here - https://react-to-do-dusky-mu.vercel.app/
 
 ## 📦 Installation
 
