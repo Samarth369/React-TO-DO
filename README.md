@@ -22,7 +22,7 @@ here -
 
 ## 📸 Demo
 <video width="100%" controls>
-  <source src="src/todo app.mp4" type="video/mp4">
+  <source src="./todo app.mp4" type="video/mp4">
 </video>
 
 ## 📦 Installation
