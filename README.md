@@ -2,6 +2,9 @@
 
 A minimalist to-do list app built using React.js. Users can add, delete, and manage daily tasks with a clean and intuitive UI.
 
+## 🌐 Live Demo:
+here - https://react-to-do-dusky-mu.vercel.app/
+
 ## 🚀 Features
 
 - ➕ Add new tasks
@@ -16,9 +19,6 @@ A minimalist to-do list app built using React.js. Users can add, delete, and man
 - React.js (Functional Components & Hooks)
 - CSS
 - JavaScript
-
-## 🌐 Live Demo:
-here - https://react-to-do-dusky-mu.vercel.app/
 
 ## 📦 Installation
 
